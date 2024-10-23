@@ -33,9 +33,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lpj2yMmAfLI2rtStVb46-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;GetInfosMiseEnOeuvre&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" source="lpj2yMmAfLI2rtStVb46-4" target="lpj2yMmAfLI2rtStVb46-2">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="lpj2yMmAfLI2rtStVb46-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;InfosMiseEnOeuvre&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" parent="1" source="lpj2yMmAfLI2rtStVb46-4" target="lpj2yMmAfLI2rtStVb46-2">
+          <mxGeometry x="0.0037" relative="1" as="geometry">
             <mxPoint x="332" y="349" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lpj2yMmAfLI2rtStVb46-13" value="GetMiseENOeuvre(id_instruction_validee)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" parent="1" source="lpj2yMmAfLI2rtStVb46-3" target="lpj2yMmAfLI2rtStVb46-6">
