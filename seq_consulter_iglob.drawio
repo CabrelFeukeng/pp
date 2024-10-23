@@ -91,7 +91,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQYJ9vTZdGdaIspuFjBB-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;GetInfosStructures +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;getInfosInstruction&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="OQYJ9vTZdGdaIspuFjBB-37" target="OQYJ9vTZdGdaIspuFjBB-34">
+        <mxCell id="OQYJ9vTZdGdaIspuFjBB-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;InfosStructures +&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;InfosInstruction&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="OQYJ9vTZdGdaIspuFjBB-37" target="OQYJ9vTZdGdaIspuFjBB-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="610" as="sourcePoint" />
             <mxPoint x="441" y="610" as="targetPoint" />
