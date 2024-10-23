@@ -84,7 +84,7 @@
             <mxPoint x="441" y="704" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lpj2yMmAfLI2rtStVb46-24" value="Seq : Consulter Instruction Globales" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=210;height=30;" vertex="1" parent="1">
+        <mxCell id="lpj2yMmAfLI2rtStVb46-24" value="Seq : Consulter Mise En Oeuvre" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=210;height=30;" vertex="1" parent="1">
           <mxGeometry x="90" y="123" width="890" height="410" as="geometry" />
         </mxCell>
         <mxCell id="lpj2yMmAfLI2rtStVb46-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;user&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
