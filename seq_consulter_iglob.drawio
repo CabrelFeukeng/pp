@@ -72,7 +72,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OQYJ9vTZdGdaIspuFjBB-20" value="LOOP:&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;AllInstructionValidees&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;height=25;" vertex="1" parent="1">
+        <mxCell id="OQYJ9vTZdGdaIspuFjBB-20" value="&lt;b&gt;LOOP&lt;/b&gt;:&amp;nbsp;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;AllInstructionValidees&lt;/span&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;height=25;" vertex="1" parent="1">
           <mxGeometry x="140" y="328" width="750" height="95" as="geometry" />
         </mxCell>
         <mxCell id="OQYJ9vTZdGdaIspuFjBB-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OQYJ9vTZdGdaIspuFjBB-20">
