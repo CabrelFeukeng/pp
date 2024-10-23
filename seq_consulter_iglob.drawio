@@ -81,7 +81,7 @@
         <mxCell id="OQYJ9vTZdGdaIspuFjBB-50" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="OQYJ9vTZdGdaIspuFjBB-49">
           <mxGeometry x="417" y="47.5" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OQYJ9vTZdGdaIspuFjBB-51" value="GetInfosStructures" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="OQYJ9vTZdGdaIspuFjBB-50">
+        <mxCell id="OQYJ9vTZdGdaIspuFjBB-51" value="GetInfosStructure" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" target="OQYJ9vTZdGdaIspuFjBB-50">
           <mxGeometry x="-0.2308" relative="1" as="geometry">
             <mxPoint x="551.5" y="353" as="sourcePoint" />
             <Array as="points">
