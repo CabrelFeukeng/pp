@@ -46,6 +46,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="yxFoe6fvZe9r7iEHTFPZ-15" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Nouvelle Mise En OEuvre Avec Statut &lt;/span&gt;Fait" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="yxFoe6fvZe9r7iEHTFPZ-16" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Nouvelle Mise En OEuvre Avec Statut &lt;/span&gt;En Cours" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="250" width="260" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
