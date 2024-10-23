@@ -14,7 +14,10 @@
           <mxGeometry x="450" y="80" width="100" height="380" as="geometry" />
         </mxCell>
         <mxCell id="C4lxrLGMwcpP1dCvGVen-4" value="Instruction" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="650" y="80" width="100" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="C4lxrLGMwcpP1dCvGVen-5" value="Structure" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="880" y="80" width="100" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
