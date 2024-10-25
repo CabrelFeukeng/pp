@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
   <diagram name="Page-1" id="0gWsJnrh7PNTObbv-XV8">
-    <mxGraphModel>
+    <mxGraphModel dx="665" dy="304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HmMxcQXpRnZ39Q23Rilj-1" value="Gestion des utilisateur" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14" y="74" width="123" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HmMxcQXpRnZ39Q23Rilj-2" value="Gestions des directives" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="242" y="73" width="155" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="HmMxcQXpRnZ39Q23Rilj-3" value="Gestions des notification" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14" y="210" width="125" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="HmMxcQXpRnZ39Q23Rilj-4" value="Gestion des rapports" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="204" width="152" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="HmMxcQXpRnZ39Q23Rilj-5" value="Dashboard" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="8" y="342" width="201" height="87" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
