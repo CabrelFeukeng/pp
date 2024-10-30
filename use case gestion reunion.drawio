@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="69V8u1TAhZ-syxMzk9xv">
-    <mxGraphModel dx="5500" dy="5851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="6233" dy="6241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-87" value="Utilisateur" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
           <mxGeometry x="119" y="396" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-88" value="Consulter réunion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
-          <mxGeometry x="559" y="436" width="140" height="70" as="geometry" />
+        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-88" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter réunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
+          <mxGeometry x="580" y="416" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-89" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Ajouter réunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
           <mxGeometry x="609" y="286" width="140" height="70" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-90" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Modifier Réunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
           <mxGeometry x="619" y="116" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-91" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Notifier le participant au sujet d&#39;une reunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
+        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-91" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Notifier le participant au sujet d&#39;une reunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
           <mxGeometry x="639" y="626" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="zv0nVKMMvP0Aw8tcAcmr-82" source="zv0nVKMMvP0Aw8tcAcmr-86" target="zv0nVKMMvP0Aw8tcAcmr-91">
@@ -70,6 +70,15 @@
             <mxPoint x="549" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-103" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Consulter réunion&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="zv0nVKMMvP0Aw8tcAcmr-82">
+          <mxGeometry x="630" y="526" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="zv0nVKMMvP0Aw8tcAcmr-82" source="zv0nVKMMvP0Aw8tcAcmr-93" target="zv0nVKMMvP0Aw8tcAcmr-103">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="516" as="sourcePoint" />
+            <mxPoint x="660" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-98" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Se conecter&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="380" width="140" height="70" as="geometry" />
         </mxCell>
@@ -86,15 +95,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-101" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zv0nVKMMvP0Aw8tcAcmr-88" target="zv0nVKMMvP0Aw8tcAcmr-98">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0039" relative="1" as="geometry">
             <mxPoint x="680" y="300" as="sourcePoint" />
             <mxPoint x="600" y="300" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zv0nVKMMvP0Aw8tcAcmr-102" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="zv0nVKMMvP0Aw8tcAcmr-91" target="zv0nVKMMvP0Aw8tcAcmr-98">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="540" as="sourcePoint" />
             <mxPoint x="550" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zv0nVKMMvP0Aw8tcAcmr-105" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;entryX=0.083;entryY=0.786;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="zv0nVKMMvP0Aw8tcAcmr-103" target="zv0nVKMMvP0Aw8tcAcmr-98">
+          <mxGeometry x="0.0039" relative="1" as="geometry">
+            <mxPoint x="670" y="425" as="sourcePoint" />
+            <mxPoint x="840" y="425" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
