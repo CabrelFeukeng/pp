@@ -25,13 +25,13 @@
         <mxCell id="Pz0wNZ6N-7INPNuhXWgC-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="Pz0wNZ6N-7INPNuhXWgC-27" vertex="1">
           <mxGeometry x="45" y="233" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Pz0wNZ6N-7INPNuhXWgC-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ValidateReformulationById(id_reformulation )&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="Pz0wNZ6N-7INPNuhXWgC-20" target="Pz0wNZ6N-7INPNuhXWgC-24" edge="1">
+        <mxCell id="Pz0wNZ6N-7INPNuhXWgC-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;ValidateReformulationById(id_reformulation, request)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" source="Pz0wNZ6N-7INPNuhXWgC-20" target="Pz0wNZ6N-7INPNuhXWgC-24" edge="1">
           <mxGeometry x="0.0024" relative="1" as="geometry">
             <mxPoint x="350.5" y="262" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pz0wNZ6N-7INPNuhXWgC-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Status 200&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="Pz0wNZ6N-7INPNuhXWgC-32" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Status 200&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" target="Pz0wNZ6N-7INPNuhXWgC-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="278.5" y="484" as="targetPoint" />
             <mxPoint x="615" y="484" as="sourcePoint" />
@@ -61,10 +61,10 @@
           <mxGeometry x="150" y="70" width="1020" height="530" as="geometry" />
         </mxCell>
         <mxCell id="Pz0wNZ6N-7INPNuhXWgC-20" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="Pz0wNZ6N-7INPNuhXWgC-37" vertex="1">
-          <mxGeometry x="119" y="40" width="20" height="478" as="geometry" />
+          <mxGeometry x="100" y="40" width="20" height="480" as="geometry" />
         </mxCell>
         <mxCell id="8XyAbyhBh-sy9a6bDNWG-1" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;App Web&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Pz0wNZ6N-7INPNuhXWgC-37" vertex="1">
-          <mxGeometry x="93" y="77" width="76" height="30" as="geometry" />
+          <mxGeometry x="79" y="77" width="76" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
