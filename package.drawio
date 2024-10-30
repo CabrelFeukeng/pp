@@ -52,7 +52,7 @@
         <mxCell id="krLjdD_EKkHfdY24i0zE-11" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Gestion des rapports&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="361" y="290" width="171" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="krLjdD_EKkHfdY24i0zE-12" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Gestions des notification&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="krLjdD_EKkHfdY24i0zE-12" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Gestions des notifications&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="33" y="290" width="228" height="30" as="geometry" />
         </mxCell>
         <mxCell id="krLjdD_EKkHfdY24i0zE-26" value="urls" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
