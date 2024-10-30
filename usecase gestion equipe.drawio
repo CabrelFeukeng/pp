@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KnkK7DIoWYK5DNCra6GS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="-79" width="1344" height="883" as="geometry" />
+          <mxGeometry x="-170" y="-79" width="1344" height="909" as="geometry" />
         </mxCell>
         <mxCell id="KnkK7DIoWYK5DNCra6GS-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="245" y="7" width="755" height="755" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KnkK7DIoWYK5DNCra6GS-28" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Cas d&#39;utilisation gestion équipe&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=279;height=36;" vertex="1" parent="1">
-          <mxGeometry x="-109" y="-36" width="1250" height="793" as="geometry" />
+          <mxGeometry x="-109" y="-36" width="1250" height="826" as="geometry" />
         </mxCell>
         <mxCell id="KnkK7DIoWYK5DNCra6GS-29" value="Membre de la DECS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="KnkK7DIoWYK5DNCra6GS-28">
           <mxGeometry x="51" y="160" width="160" height="30" as="geometry" />
